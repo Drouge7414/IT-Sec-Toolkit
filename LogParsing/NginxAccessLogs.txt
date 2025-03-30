@@ -1,0 +1,15 @@
+awk '{print $1}' access.log | sort -u | wc -l // Use this to count total unqiue IPs
+
+awk '$9 ~ /^[23][0-9][0-9]$/ {print $1}' access.log | sort -u | wc -l // Use this to look for all 200 / 300 reuests and output a total
+
+awk '$9 == 200' access.log // Use this to output all lines with 200 status on request
+
+grep "Googlebot" access.log // Look for Google bot
+
+grep -E "(\(\) { :; }|bash|exec)" access.log // Look for Shell Shock Vulnereability
+
+grep "Firefox" access.log | awk -F"Firefox/" '{print $2}' | cut -d " " -f1 | sort | uniq -c | sort -nr  // Counts each unique firefox version 
+
+awk '{print $6}' access.log | cut -d '"' -f2 | sort | uniq -c | sort -nr // Most common Http Method
+
+cat access.log | cut -d '"' -f 3 | cut -d ' ' -f 2 | sort | uniq -c | sort -rn // This can be used to see all HTTP methods and how mny times that they have occured in the log (nginx)
