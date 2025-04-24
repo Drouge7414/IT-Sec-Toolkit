@@ -1,3 +1,5 @@
+> ⚠️ **Disclaimer**: All content in this repository is for educational purposes only. The author(s) are not responsible for any misuse. Commercial redistribution of original work is prohibited.
+
 This repository is intended strictly for educational and research purposes only! The tools, scripts, and techniqus shared here are ment to promote learning in the fields of cybersecurity, Ethical hacking, and digital forensics.
 
 Unauthorized access to systems, networks, or data is illegal and unethical. Do not attempt to use any of the contents of this repository on systems or networks you do not own or have Explicit, Written permission to test.
