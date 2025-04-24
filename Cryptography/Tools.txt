@@ -1,0 +1,8 @@
+OpenSSL
+GPG (GNU Privacy Guard)
+Hashcat
+CyberChef
+Cryptool
+John the Ripper
+PyCryptoDome (Python Library)
+Hashing Utilities
