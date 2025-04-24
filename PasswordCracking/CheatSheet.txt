@@ -1,0 +1,20 @@
+John the Ripper
+  john --wordlist=path/to/wordlist.txt path/to/passwordfile
+  john --show path/to/passwordfile
+
+Hashcat
+  hashcat -m 0 -a 3 path/to/hasfile ?a?a?a?a?a
+  -m 0 specifies a brute-force attack
+  ?a?a?a?a?a is a mask for the brute force
+
+Hydra
+  hydra -l usernae -P path/to/wordlist.txt target_ip ssh
+
+Medusa
+  medusa -h target_ip -u username - P path/to/wordlist.txt -M ssh
+
+Ophcrack
+  ophcrack -t /path/to/table -f /path/to/windows/system32/config/SAM
+
+RainbowCrack
+  rcrack /path/to/tables -h target_hash
