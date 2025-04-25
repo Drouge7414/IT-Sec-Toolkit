@@ -1,0 +1,14 @@
+Splunk
+ELK Stack (Elasticsearch, Logstash, Kibana)
+Graylog
+LogRhythm
+Kiwi Syslog Server
+GoAccess
+Osquery
+Loggly
+Logwatch
+Fluentd
+Papertrail
+Nagios Log Server
+Sumo Logic
+NXLog
