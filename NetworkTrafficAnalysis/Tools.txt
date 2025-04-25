@@ -1,0 +1,14 @@
+Wireshark
+Tcpdump
+Tshark
+NetFlow Analyzer
+SolarWinds Network Performance Monitor
+Suricata
+Zeek (formerly known as Bro)
+Ntopng
+WiSpy
+Snort
+PRTG Network Monitor
+Xplico
+Cain and Abel (for sniffing and analysis)
+Ettercap (for Man-in-the-Middle attacks)
