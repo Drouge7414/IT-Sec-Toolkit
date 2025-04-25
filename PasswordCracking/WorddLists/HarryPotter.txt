@@ -1,236 +1,190 @@
-Harry
-Hermione
-Ron
+HarryPotter
+HermioneGranger
+RonWeasley
 Dumbledore
 Voldemort
-Snape
 Hogwarts
-Hufflepuff
 Gryffindor
-Ravenclaw
+Hufflepuff
 Slytherin
-Quidditch
-Muggle
+Ravenclaw
+QuidditchFan
+Muggleborn
 Mudblood
-Wand
-Patronus
-Horcrux
-Ollivanders
-Death Eaters
-Diagon Alley
-Gringotts
+FawkesThePhoenix
 Buckbeak
-Fawkes
-Fluffy
-Hagrid
-Dobby
-House-elf
-Luna
-Neville
-Fred
-George
-Weasley
-Malfoy
-Draco
-Bellatrix
-Nymphadora
-Tonks
-McGonagall
-Trelawney
-Basilisk
-Firenze
-Hippogriff
-Dementor
-Polyjuice
-Felix Felicis
-Expelliarmus
-Avada Kedavra
-Crucio
-Imperius
-Expecto Patronum
-Wingardium Leviosa
-Lumos
-Nox
-Stupefy
-Petrificus Totalus
-Accio
-Reducto
-Alohomora
-Riddikulus
-Sectumsempra
-Obliviate
-Leviosa
-Sirius
-Remus
-Peter Pettigrew
-The Marauders
-Map
-The Burrow
-Floo Network
-Platform 9¾
-The Leaky Cauldron
-The Triwizard Tournament
-The Goblet of Fire
-Grimmauld Place
-The Order of the Phoenix
-The Forbidden Forest
-The Chamber of Secrets
-The Philosopher's Stone
-The Half-Blood Prince
-The Deathly Hallows
-The Invisibility Cloak
-The Elder Wand
-The Resurrection Stone
-The Cloak of Invisibility
-Boggart
-Hippogriff
-Sirius Black
-Lily Potter
-James Potter
-Harry Potter
-Ron Weasley
-Hermione Granger
-Voldemort
-Death Eater
-Horcrux
-Hogsmeade
-Patronus
-Hogwarts Express
-Gringotts
-Mudblood
-Quidditch
-Basilisk
 Firebolt
-Nimbus 2000
-Seeker
-Chaser
-Beater
-Bludger
-Golden Snitch
+PolyjuicePotion
+ExpectoPatronum
+AvadaKedavra
+WingardiumLeviosa
+LumosMaxima
+Expelliarmus
+AccioWand
+StupefySpell
+Riddikulus
+SiriusBlack
+RemusLupin
+DracoMalfoy
+BellatrixLestrange
+HogwartsExpress
+TheLeakyCauldron
+Hogsmeade
 Quaffle
-Peeves
-Professor
-Hogwarts School of Witchcraft and Wizardry
-The Ministry of Magic
-Arthur Weasley
-Lucius Malfoy
-Draco Malfoy
-Fred Weasley
-George Weasley
-Percy Weasley
-Ginny Weasley
-Neville Longbottom
-Luna Lovegood
-Cedric Diggory
-Mad-Eye Moody
-The Sorting Hat
-The House Cup
-Azkaban
-Fang
-Magical Creatures
-Troll
-Thestral
-Mandrake
-Veela
-Acromantula
-Inferius
-Blast-Ended Skrewt
-Kneazle
-Crookshanks
-Salazar Slytherin
-Helga Hufflepuff
-Rowena Ravenclaw
-Godric Gryffindor
-Fleur Delacour
-Victor Krum
-Cedric Diggory
-Marauder's Map
-Chocolate Frog
-Every Flavor Beans
-Polyjuice Potion
-Amortentia
-Veritaserum
-Butterbeer
-Pumpkin Juice
-The Forbidden Forest
-Centaurs
-House-elves
-Manticore
-Lethifold
-Peeves
-Hogwarts Castle
-The Great Hall
-Gilderoy Lockhart
-Professor Sprout
-Professor Flitwick
-Professor Binns
-The Chamber of Secrets
-The Philosopher's Stone
-The Triwizard Cup
-The Golden Egg
-The Unforgivable Curses
-The Room of Requirement
-The Shrieking Shack
-The Mirror of Erised
-Hogwarts Library
-The Dark Mark
-Slytherin's Locket
-Ravenclaw's Diadem
-Gringotts Vault
-The Elder Wand
-The Resurrection Stone
-The Cloak of Invisibility
-Dobby's Socks
-The Yule Ball
-The Quidditch World Cup
-Wandmaker
-Gilderoy Lockhart
-Newt Scamander
-Fantastic Beasts
-Niffler
-Bowtruckle
-Thunderbird
-Demiguise
-Crups
-Erumpent
-Occamy
-Swooping Evil
-Chupacabra
-Manticore
-Graphorn
-Murtlap
-Fwooper
-Snidget
-Kappa
-Horklump
-Bubotuber
-Boomslang
-Leaping Toadstool
-Pygmy Puff
-Niffler
-Occamy
-Snallygaster
-Hippogriff
-Chimaera
-Red Cap
-Manticore
-Chimaera
-Vampire
-Zombie
-Inferius
+GoldenSnitch
+TheMaraudersMap
+DobbyTheElf
 Horcrux
-Basilisk
-Polyjuice Potion
-Whomping Willow
-Sirius Black
-The Firebolt
-Quidditch World Cup
-The Triwizard Tournament
-Cursed Vault
-Troll
-Mandrake
-Grim
-The Deathly Hallows
-The Golden Trio
-The Half-Blood Prince
-The Dark Lord
+GringottsVault
+VoldemortsCurse
+ThePhilosophersStone
+DarkMark
+Dementor
+CrucioCurse
+Obliviate
+PatronusCharm
+SeverusSnape
+GrimmauldPlace
+GilderoyLockhart
+TriwizardTournament
+YuleBall
+MudbloodsUnite
+FleurDelacour
+CedricDiggory
+GinnyWeasley
+NevilleLongbottom
+LunaLovegood
+CentaursOfTheForest
+MagicWand
+MagicalCreatures
+TheHalfBloodPrince
+TheOrderOfThePhoenix
+BasiliskVenom
+HippogriffRide
+PolyjuicePotionMix
+MandrakeRoots
+AzkabanPrison
+TheSortingHat
+ChamberOfSecrets
+WhompingWillow
+HouseElves
+SwoopingEvil
+ThunderbirdMagic
+ZonkoJokes
+ChocolateFrogs
+ButterbeerPlease
+PumpkinJuice
+TheGoldenEgg
+FwooperSong
+Acromantula
+BoggartFear
+Veritaserum
+GrimReaper
+ChimaeraDragon
+TheCursedVault
+FluffyTheDog
+PatronusWolf
+Alohomora
+InvisibilityCloak
+DeathlyHallows
+DiagonAlley
+CursedVaults
+FireWhiskey
+MadEyeMoody
+FelixFelicis
+TheBurrowHome
+PolyjuicePotionFail
+TheForbiddenForest
+Stonjourner
+SiriusPadfoot
+TheGoldenTrio
+TheMirrorOfErised
+TheDarkLordRising
+TheElderWand
+TheResurrectionStone
+BasiliskFang
+FawkesTears
+DeathEaterMark
+CursedObjects
+LilyAndJamesPotter
+TheGobletOfFire
+TheTriwizardCup
+TheWhompingWillow
+LunaLovegoodRavenclaw
+ExpectoPatronum2025
+SiriusBlack!123
+PolyjuicePotion1!
+Butterbeer&Quaffle
+FawkesTears#7
+AccioWand!88
+LumosMaxima$99
+Riddikulus2024
+DobbyTheElf#1
+VoldemortCurse!
+GringottsVault2023
+ChocolateFrogs@2025
+WingardiumLeviosa!!
+MudbloodsUnite!22
+SeverusSnape@HP
+PatronusWolf#8
+Firebolt!Quidditch
+MandrakeRoots*2025
+FluffyTheDog@7
+TheGoldenEgg!45
+FleurDelacour$$
+PolyjuicePotionFail!
+TheWhompingWillow22
+CursedObjects123!
+DementorFear!99
+TheSortingHat$2024
+SwoopingEvilMagic
+TheMirrorOfErised!8
+DracoMalfoy123$
+AzkabanPrison!#1
+GoldenSnitch88!
+TheDarkLordRising$
+Mudblood@Hermione
+HogwartsExpress@5
+RavenclawLuna$
+FawkesThePhoenix@
+CursedVault2025
+HogwartsQuaffle1!
+BasiliskFang#1
+InvisibilityCloak2024
+CedricDiggory!98
+MadEyeMoody!2023
+LilyJamesPotter#1
+Thunderbird!Magic
+GrimmauldPlace$2023
+ChamberOfSecrets2025
+TheHalfBloodPrince$$
+TheOrderOfPhoenix@
+TheElderWand88
+PolyjuicePotionMix!
+Obliviate$Forever
+TheGobletOfFire!
+BoggartFear1234
+HippogriffRide@5
+BasiliskVenom!1
+DracoMalfoy#Hogwarts
+TheLeakyCauldron#7
+ChocolateFrogs*2025
+BasiliskHunt@
+SiriusPadfoot#2
+TheBurrowHome!22
+MandrakeRoots@50
+TheResurrectionStone!
+DeathEaterMark#7
+PolyjuicePotion#New
+CentaursOfTheForest@
+FluffyTheDog2023
+WhompingWillow!!2025
+TriwizardCup$2024
+FawkesTears&Firebolt
+LunaLovegood2025
+DobbySocks!22
+VoldemortHorcrux!99
+CedricDiggory#Champion
+HogwartsQuidditchFan
+TheGoldenTrio@8
+FawkesFire!7
