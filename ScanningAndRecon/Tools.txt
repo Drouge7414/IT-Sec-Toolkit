@@ -1,0 +1,14 @@
+Nmap
+OpenVAS
+Nikto
+Masscan
+Recon-ng
+Shodan
+Maltego
+Amass
+TheHarvester
+DirBuster
+Sublist3r
+DNSRecon
+WhatWeb
+Wappalyzer
