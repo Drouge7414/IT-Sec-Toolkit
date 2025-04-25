@@ -1,3 +1,0 @@
-grep -E '([0-9]{1,3}\.){3}[0-9]{1,3}' log.log // Use this to pull all lines in log that contain an IP address
-
-grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}' access.log | sort | uniq -c | sort -nr // Use this to extract all unique IP addresses and count total number of time each IP address appears

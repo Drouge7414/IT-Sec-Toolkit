@@ -1,9 +1,0 @@
-awk '{print strftime("%Y", $1)}' squid_access.log | head -n 1 // To find year that log was saved
-
-awk '{print $2}' access.log | sort -n | head -n 1 // To find the fastest request 
-
-awk '{print $2}' access.log | sort -nr | head -n 1 // Longest request time
-
-cat squid_access.log | awk '{print $3}' | sort | uniq | wc -l // How many different IP Address
-
-cat squid_access.log | awk '{print $6}' | sort | uniq -c // How many GET / POST requests
